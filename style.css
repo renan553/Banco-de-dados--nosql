@@ -1,0 +1,61 @@
+h1{
+    color: black
+}
+
+h2{
+    color:cyan
+}
+
+#preco{
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#preco:hover{
+    color: white;
+}
+
+#preco2{
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#preco2:hover{
+    color: white;
+}
+
+
+#preco3{
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#preco3:hover{
+    color: white;
+}
+
+
+#preco4{
+    color:red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#preco4:hover{
+    color: white;
+}
+
+
+
+.botao:hover{
+    margin-left: 500px;
+}
+
+.botao{
+    background-color: green;
+    border: none;
+    color:white
+}
+
+body{
+    background-color: gray;
+}
